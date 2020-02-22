@@ -5,14 +5,14 @@ this is my first git notehttps://gitnoteapp.com/zh/extensions/github.htmlv
 
 11212e11ee1^wqdw^
 
-```java
+```ja**居左**va
 jasbdjasda
 asda
 
 import
 public void main()
 {
-	print
+	print()
 }
 
 ```
