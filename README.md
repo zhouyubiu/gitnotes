@@ -13,20 +13,14 @@
 | datafact     |summary = 1635690 in 05:02:55 =   90.0/s Avg:    15 Min:     1 Max:  5043 Err:     0 (0.00%)| 
 | liveAutoTest     |summary = 20334752 in 05:03:13 = 1117.7/s Avg:   165 Min:     0 Max: 31001 Err: 3401896 (16.73%)| 
 | pre_buffet_3_interfaces     |summary = 13961967 in 05:03:49 =  765.9/s Avg:    30 Min:     4 Max: 301007 Err:     3 (0.00%)| 
-| logserver_bigdata     |summary = 803951 in 04:57:45 =   45.0/s Avg:     3 Min:     2 Max:   520 Err:     0 (0.00%)
-    | 
-| meetingroomchargebill     |summary = 61549500 in 05:07:41 = 3334.0/s Avg:    29 Min:     1 Max:  4056 Err:     0 (0.00%)
-    | 
-| recording     |summary = 275947 in 05:06:37 =   15.0/s Avg:    73 Min:    14 Max:  3150 Err:     0 (0.00%)
-| 
-| Vote_Interface_Test     |summary = 4092927 in 01:59:28 =  571.0/s Avg:    52 Min:     2 Max: 11872 Err:     0 (0.00%)
-    | 
-| case1创建签到_linux     |summary =  51067 in 00:45:18 =   18.8/s Avg:  3190 Min:  1047 Max: 20152 Err:     0 (0.00%)
-    | 
-| case2创建答题_linux     |summary =  27233 in 00:44:28 =   10.2/s Avg:  5871 Min:  2299 Max: 29750 Err:     0 (0.00%)
-    | 
+| logserver_bigdata     |summary = 803951 in 04:57:45 =   45.0/s Avg:     3 Min:     2 Max:   520 Err:     0 (0.00%)| 
+| meetingroomchargebill     |summary = 61549500 in 05:07:41 = 3334.0/s Avg:    29 Min:     1 Max:  4056 Err:     0 (0.00%) | 
+| recording     |summary = 275947 in 05:06:37 =   15.0/s Avg:    73 Min:    14 Max:  3150 Err:     0 (0.00%)| 
+| Vote_Interface_Test     |summary = 4092927 in 01:59:28 =  571.0/s Avg:    52 Min:     2 Max: 11872 Err:     0 (0.00%)| 
+| case1创建签到_linux     |summary =  51067 in 00:45:18 =   18.8/s Avg:  3190 Min:  1047 Max: 20152 Err:     0 (0.00%)| 
+| case2创建答题_linux     |summary =  27233 in 00:44:28 =   10.2/s Avg:  5871 Min:  2299 Max: 29750 Err:     0 (0.00%)| 
 | case3签到_linux     |summary =  51485 in 00:44:47 =   19.2/s Avg:  3127 Min:  1054 Max: 17199 Err:     0 (0.00%)
-    | 
+| 
 | case4答题_linux     |summary =  28292 in 00:45:30 =   10.4/s Avg:  5781 Min:  2192 Max: 26148 Err:     0 (0.00%)
     |   
 | case4答题_linux     |summary =  28292 in 00:45:30 =   10.4/s Avg:  5781 Min:  2192 Max: 26148 Err:     0 (0.00%)
