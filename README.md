@@ -6,20 +6,13 @@
 | pivotor_iauth_api | summary = 57553848 in 05:55:19 = 2699.6/s Avg:    17 Min:     1 Max: 50594 Err:     0 (0.00%)
  | 
 | pivotor_iauth_api_user    | summary = 92845566 in 06:06:19 = 4224.2/s Avg:    37 Min:     2 Max: 37042 Err:     0 (0.00%)|  
-| incoming   |summary = 28776280 in 03:13:32 = 2478.2/s Avg:  3643 Min:     7 Max: 39316 Err:     0 (0.00%)
-    |  
-| callpermission     |summary = 466803 in 03:04:12 =   42.2/s Avg:  1424 Min:     0 Max: 92791 Err:  1749 (0.37%)
-    | 
-| dating压测     |summary = 13937378 in 03:10:24 = 1220.0/s Avg:  1087 Min:     0 Max: 199368 Err: 47414 (0.34%)
-    | 
-| dating压测_meetingDepts     |summary = 20009119 in 03:09:40 = 1758.3/s Avg:   768 Min:     0 Max: 214848 Err: 50278 (0.25%)
-    | 
-| datafact     |summary = 1635690 in 05:02:55 =   90.0/s Avg:    15 Min:     1 Max:  5043 Err:     0 (0.00%)
-    | 
-| liveAutoTest     |summary = 20334752 in 05:03:13 = 1117.7/s Avg:   165 Min:     0 Max: 31001 Err: 3401896 (16.73%)
-    | 
-| pre_buffet_3_interfaces     |summary = 13961967 in 05:03:49 =  765.9/s Avg:    30 Min:     4 Max: 301007 Err:     3 (0.00%)
-    | 
+| incoming   |summary = 28776280 in 03:13:32 = 2478.2/s Avg:  3643 Min:     7 Max: 39316 Err:     0 (0.00%)|  
+| callpermission     |summary = 466803 in 03:04:12 =   42.2/s Avg:  1424 Min:     0 Max: 92791 Err:  1749 (0.37%)| 
+| dating压测     |summary = 13937378 in 03:10:24 = 1220.0/s Avg:  1087 Min:     0 Max: 199368 Err: 47414 (0.34%)| 
+| dating压测_meetingDepts     |summary = 20009119 in 03:09:40 = 1758.3/s Avg:   768 Min:     0 Max: 214848 Err: 50278 (0.25%)| 
+| datafact     |summary = 1635690 in 05:02:55 =   90.0/s Avg:    15 Min:     1 Max:  5043 Err:     0 (0.00%)| 
+| liveAutoTest     |summary = 20334752 in 05:03:13 = 1117.7/s Avg:   165 Min:     0 Max: 31001 Err: 3401896 (16.73%)| 
+| pre_buffet_3_interfaces     |summary = 13961967 in 05:03:49 =  765.9/s Avg:    30 Min:     4 Max: 301007 Err:     3 (0.00%)| 
 | logserver_bigdata     |summary = 803951 in 04:57:45 =   45.0/s Avg:     3 Min:     2 Max:   520 Err:     0 (0.00%)
     | 
 | meetingroomchargebill     |summary = 61549500 in 05:07:41 = 3334.0/s Avg:    29 Min:     1 Max:  4056 Err:     0 (0.00%)
