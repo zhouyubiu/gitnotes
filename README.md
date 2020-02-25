@@ -19,12 +19,9 @@
 | Vote_Interface_Test     |summary = 4092927 in 01:59:28 =  571.0/s Avg:    52 Min:     2 Max: 11872 Err:     0 (0.00%)| 
 | case1创建签到_linux     |summary =  51067 in 00:45:18 =   18.8/s Avg:  3190 Min:  1047 Max: 20152 Err:     0 (0.00%)| 
 | case2创建答题_linux     |summary =  27233 in 00:44:28 =   10.2/s Avg:  5871 Min:  2299 Max: 29750 Err:     0 (0.00%)| 
-| case3签到_linux     |summary =  51485 in 00:44:47 =   19.2/s Avg:  3127 Min:  1054 Max: 17199 Err:     0 (0.00%)
-| 
-| case4答题_linux     |summary =  28292 in 00:45:30 =   10.4/s Avg:  5781 Min:  2192 Max: 26148 Err:     0 (0.00%)
-    |   
-| case4答题_linux     |summary =  28292 in 00:45:30 =   10.4/s Avg:  5781 Min:  2192 Max: 26148 Err:     0 (0.00%)
-    | 
+| case3签到_linux     |summary =  51485 in 00:44:47 =   19.2/s Avg:  3127 Min:  1054 Max: 17199 Err:     0 (0.00%)| 
+| case4答题_linux     |summary =  28292 in 00:45:30 =   10.4/s Avg:  5781 Min:  2192 Max: 26148 Err:     0 (0.00%)|   
+| case4答题_linux     |summary =  28292 in 00:45:30 =   10.4/s Avg:  5781 Min:  2192 Max: 26148 Err:     0 (0.00%)| 
     
 
 ### 接口平均响应时间大于3s的接口
