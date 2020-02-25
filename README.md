@@ -3,8 +3,7 @@
 ### 那个模块压测情况
 | 模块    | 并发数据 | 
 | :------- | :---- | 
-| pivotor_iauth_api | summary = 57553848 in 05:55:19 = 2699.6/s Avg:    17 Min:     1 Max: 50594 Err:     0 (0.00%)
- | 
+| pivotor_iauth_api | summary = 57553848 in 05:55:19 = 2699.6/s Avg:    17 Min:     1 Max: 50594 Err:     0 (0.00%)| 
 | pivotor_iauth_api_user    | summary = 92845566 in 06:06:19 = 4224.2/s Avg:    37 Min:     2 Max: 37042 Err:     0 (0.00%)|  
 | incoming   |summary = 28776280 in 03:13:32 = 2478.2/s Avg:  3643 Min:     7 Max: 39316 Err:     0 (0.00%)|  
 | callpermission     |summary = 466803 in 03:04:12 =   42.2/s Avg:  1424 Min:     0 Max: 92791 Err:  1749 (0.37%)| 
