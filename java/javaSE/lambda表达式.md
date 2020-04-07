@@ -13,7 +13,8 @@
  
 ## java内部提供的接口
 ```
-
+        Function<String,Integer> f1 = (str)->str.length();
+        System.out.println(f1.apply("123"));
 
 ```
 
