@@ -11,7 +11,7 @@
 - ==()==:写函数参数
 - =={}==:代码块,只有一行代码时可以省略
  
-## 接口使用举例
+## 函数式接口使用举例
 ```java
         Function<String,Integer> f1 = (str)->str.length();
         System.out.println(f1.apply("123"));
