@@ -17,4 +17,6 @@
         System.out.println(f1.apply("123"));
 ```
 
-##
+## 方法引用
+
+![title](https://raw.githubusercontent.com/zhouyubiu/gitnotes_images/master/gitnote/2020/04/07/1586237802629-1586237802639.png)
