@@ -24,7 +24,7 @@
 
 ![title](https://raw.githubusercontent.com/zhouyubiu/gitnotes_images/master/gitnote/2020/04/19/1587275778349-1587275778351.png)
 
-实际上就是吧exec()方法放到了
+实际上就是吧exec()方法放到了get方法中执行，仅此而已
 
 
 ## 方法引用
