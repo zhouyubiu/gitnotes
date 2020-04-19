@@ -22,8 +22,9 @@
 
 ## 可调用基本的静态函数方法
 
+![title](https://raw.githubusercontent.com/zhouyubiu/gitnotes_images/master/gitnote/2020/04/19/1587275778349-1587275778351.png)
 
-
+实际上就是吧exec()方法放到了
 
 
 ## 方法引用
