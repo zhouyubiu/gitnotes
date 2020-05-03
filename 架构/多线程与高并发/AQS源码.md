@@ -5,6 +5,4 @@
 <img src="https://raw.githubusercontent.com/zhouyubiu/gitnotes_images/master/gitnote/2020/04/27/1588000559014-1588000559019.png" weight=800 height=400     />
 
 
-- acquierdQueued
 
-![title](https://raw.githubusercontent.com/zhouyubiu/gitnotes_images/master/gitnote/2020/05/03/1588502670768-1588502670795.png)
