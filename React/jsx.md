@@ -1,2 +1,2 @@
 ## jsx
-  
+  1. 每个组件最外层必须有<div></div>biaoqian 
