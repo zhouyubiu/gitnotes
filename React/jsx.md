@@ -32,6 +32,13 @@
 ![title](https://raw.githubusercontent.com/zhouyubiu/gitnotes_images/master/gitnote/2020/06/21/1592677114941-1592677114943.png)
 1. 就是将数组拆开和后面的值合并成新数组
 
+### 修改state中的数据
+
+![title](https://raw.githubusercontent.com/zhouyubiu/gitnotes_images/master/gitnote/2020/06/21/1592679081970-1592679081973.png)
+
+1. 
+
+
 
 
 
