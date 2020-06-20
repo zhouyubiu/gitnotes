@@ -6,5 +6,6 @@
 ### jsx事件
 ![title](https://raw.githubusercontent.com/zhouyubiu/gitnotes_images/master/gitnote/2020/06/21/1592676081395-1592676081418.png)
 
-1. 事件大写```onClick```
-2. 绑定this，指定
+1. js表达式加```{}```
+2. 绑定this，指定当前对象
+3. 
