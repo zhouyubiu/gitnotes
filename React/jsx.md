@@ -42,7 +42,12 @@
 
 ### 去除html标签自动转义
 ![title](https://raw.githubusercontent.com/zhouyubiu/gitnotes_images/master/gitnote/2020/06/21/1592680978726-1592680978730.png)
-1. 使用标签中的```dangerouslySetInnerHTML```属性
+1. 使用标签中的```dangerouslySetInnerHTML```属性即可
+
+### 输入框和label绑定
+
+
+
 
 
 
