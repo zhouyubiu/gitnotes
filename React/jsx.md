@@ -36,9 +36,9 @@
 
 ![title](https://raw.githubusercontent.com/zhouyubiu/gitnotes_images/master/gitnote/2020/06/21/1592679081970-1592679081973.png)
 
-1. 凡事要操作```this.state```中的数据，首先拷贝一份，再执行操作
+1. 凡事要操作```this.state```中的数据，首先拷贝一份，再执行操作（与react性能优化相关）
 2. 操作完后统一在，```this.setState()```中赋值
-3. 拷贝数组副本
+3. 拷贝数组副本格式见上图list，可用展开符
 
 
 
