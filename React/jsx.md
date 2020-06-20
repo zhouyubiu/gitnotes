@@ -5,7 +5,7 @@
 ### 构造函数
 ![title](https://raw.githubusercontent.com/zhouyubiu/gitnotes_images/master/gitnote/2020/06/21/1592676822174-1592676822176.png)
 1. 每个组件类都以一个构造函数
-2. 数据放在```this.state```
+2. 数据放在```this.state```中，如图所示
 
 
 
