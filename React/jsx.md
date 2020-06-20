@@ -28,7 +28,7 @@
 ### ES6展开运算符
 
 ![title](https://raw.githubusercontent.com/zhouyubiu/gitnotes_images/master/gitnote/2020/06/21/1592677114941-1592677114943.png)
-1. 就是将数组拆开和
+1. 就是将数组拆开和后面的值合并成新数组
 
 
 
