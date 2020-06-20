@@ -45,7 +45,8 @@
 1. 使用标签中的```dangerouslySetInnerHTML```属性即可
 
 ### 输入框和label绑定
-
+![title](https://raw.githubusercontent.com/zhouyubiu/gitnotes_images/master/gitnote/2020/06/21/1592681081135-1592681081137.png)
+1. 点击标签，输入框获得光标，注意react中用htmlFor
 
 
 
