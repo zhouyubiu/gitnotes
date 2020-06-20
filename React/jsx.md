@@ -36,7 +36,8 @@
 
 ![title](https://raw.githubusercontent.com/zhouyubiu/gitnotes_images/master/gitnote/2020/06/21/1592679081970-1592679081973.png)
 
-1. 
+1. 凡事要操作```this.state```中的数据，首先拷贝一份，再执行操作
+2. 操作完后统一
 
 
 
