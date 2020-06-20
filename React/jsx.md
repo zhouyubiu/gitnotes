@@ -9,3 +9,9 @@
 1. js表达式加```{}```
 2. 绑定this，指定当前对象
 3. 事件大写```onClick```
+
+### arry.map()函数
+![title](https://raw.githubusercontent.com/zhouyubiu/gitnotes_images/master/gitnote/2020/06/21/1592676460030-1592676460060.png)
+
+1. 每个arry里有个map函数
+2. 
