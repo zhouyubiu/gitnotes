@@ -40,7 +40,9 @@
 2. 操作完后统一在，```this.setState()```中赋值
 3. 拷贝数组副本格式见上图list，可用展开符
 
-### 输入框中的内容去除html标签自动转义
+### 去除html标签自动转义
+![title](https://raw.githubusercontent.com/zhouyubiu/gitnotes_images/master/gitnote/2020/06/21/1592680978726-1592680978730.png)
+1. 使用标签中的```dangerouslySetInnerHTML```属性
 
 
 
