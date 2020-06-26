@@ -36,4 +36,6 @@
 
 ## 请求转发
 ![title](https://raw.githubusercontent.com/zhouyubiu/gitnotes_images/master/gitnote/2020/06/26/1593182432945-1593182432948.png)
-1. 请求转发的时候，不同的servlet共用req
+1. 请求转发的时候，不同的servlet共用req和resp，这时候可以在不同的servlet之间传递参数，用法如下
+
+![title](https://raw.githubusercontent.com/zhouyubiu/gitnotes_images/master/gitnote/2020/06/26/1593183004898-1593183004902.png)
