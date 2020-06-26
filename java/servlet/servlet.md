@@ -28,3 +28,8 @@
 
 
 ![title](https://raw.githubusercontent.com/zhouyubiu/gitnotes_images/master/gitnote/2020/06/26/1593154983714-1593154983753.png)
+
+
+## servlet 处理流程
+
+![title](https://raw.githubusercontent.com/zhouyubiu/gitnotes_images/master/gitnote/2020/06/26/1593180952089-1593180952124.png)
