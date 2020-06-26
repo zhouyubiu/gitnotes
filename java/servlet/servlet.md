@@ -24,4 +24,7 @@
 4. 执行service，doGet,doPost等方法 
 
 
-## request
+## request常用方法
+
+
+![title](https://raw.githubusercontent.com/zhouyubiu/gitnotes_images/master/gitnote/2020/06/26/1593154983714-1593154983753.png)
