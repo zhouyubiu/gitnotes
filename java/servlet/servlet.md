@@ -34,4 +34,5 @@
 
 ![title](https://raw.githubusercontent.com/zhouyubiu/gitnotes_images/master/gitnote/2020/06/26/1593180952089-1593180952124.png)
 
-## 
+## 请求转发
+![title](https://raw.githubusercontent.com/zhouyubiu/gitnotes_images/master/gitnote/2020/06/26/1593182432945-1593182432948.png)
