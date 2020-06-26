@@ -22,3 +22,6 @@
 2. tomcat加载将webxml文件加载到内存
 3. 找到对应的servlet，根据mapping找到接口对应的实现子类
 4. 执行service，doGet,doPost等方法 
+
+
+## request
