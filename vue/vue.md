@@ -1,6 +1,6 @@
 # 创建项目
 
-1. 安装脚手架 ```sudo npm i -g vue```
+1. 安装脚手架 ```yarn global add @vue/cli```
 
 
 # 跨域解决方案
