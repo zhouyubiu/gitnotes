@@ -5,5 +5,9 @@
 3. [官网地址](https://cli.vuejs.org/zh/guide/installation.html)
 
 
+# 常用插件
 
+```
+sudo cnpm vue-lazyload element-ui node-sass sass-loader vue-awesome-swiper vue-axios vue-cookie --save-dev
+```
 
